@@ -1,0 +1,8 @@
+E:\-\уп 03\-\PR2-main\PR21\PR21\bin\Debug\PR21.exe.config
+E:\-\уп 03\-\PR2-main\PR21\PR21\bin\Debug\PR21.exe
+E:\-\уп 03\-\PR2-main\PR21\PR21\bin\Debug\PR21.pdb
+E:\-\уп 03\-\PR2-main\PR21\PR21\obj\Debug\PR2-2.csproj.AssemblyReference.cache
+E:\-\уп 03\-\PR2-main\PR21\PR21\obj\Debug\PR2-2.csproj.SuggestedBindingRedirects.cache
+E:\-\уп 03\-\PR2-main\PR21\PR21\obj\Debug\PR2-2.csproj.CoreCompileInputs.cache
+E:\-\уп 03\-\PR2-main\PR21\PR21\obj\Debug\PR21.exe
+E:\-\уп 03\-\PR2-main\PR21\PR21\obj\Debug\PR21.pdb

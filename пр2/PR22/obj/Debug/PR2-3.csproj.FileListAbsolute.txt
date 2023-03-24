@@ -1,0 +1,8 @@
+E:\-\уп 03\-\+\пр2\PR22\bin\Debug\PR22.exe.config
+E:\-\уп 03\-\+\пр2\PR22\bin\Debug\PR22.exe
+E:\-\уп 03\-\+\пр2\PR22\bin\Debug\PR22.pdb
+E:\-\уп 03\-\+\пр2\PR22\obj\Debug\PR2-3.csproj.AssemblyReference.cache
+E:\-\уп 03\-\+\пр2\PR22\obj\Debug\PR2-3.csproj.SuggestedBindingRedirects.cache
+E:\-\уп 03\-\+\пр2\PR22\obj\Debug\PR2-3.csproj.CoreCompileInputs.cache
+E:\-\уп 03\-\+\пр2\PR22\obj\Debug\PR22.exe
+E:\-\уп 03\-\+\пр2\PR22\obj\Debug\PR22.pdb

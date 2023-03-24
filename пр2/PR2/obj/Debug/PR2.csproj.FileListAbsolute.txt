@@ -1,0 +1,15 @@
+C:\Users\positive\source\repos\PR2\PR2\bin\Debug\PR2.exe.config
+C:\Users\positive\source\repos\PR2\PR2\bin\Debug\PR2.exe
+C:\Users\positive\source\repos\PR2\PR2\bin\Debug\PR2.pdb
+C:\Users\positive\source\repos\PR2\PR2\obj\Debug\PR2.csprojAssemblyReference.cache
+C:\Users\positive\source\repos\PR2\PR2\obj\Debug\PR2.csproj.CoreCompileInputs.cache
+C:\Users\positive\source\repos\PR2\PR2\obj\Debug\PR2.exe
+C:\Users\positive\source\repos\PR2\PR2\obj\Debug\PR2.pdb
+E:\-\уп 03\-\+\пр2\PR2\bin\Debug\PR2.exe.config
+E:\-\уп 03\-\+\пр2\PR2\bin\Debug\PR2.exe
+E:\-\уп 03\-\+\пр2\PR2\bin\Debug\PR2.pdb
+E:\-\уп 03\-\+\пр2\PR2\obj\Debug\PR2.csproj.AssemblyReference.cache
+E:\-\уп 03\-\+\пр2\PR2\obj\Debug\PR2.csproj.SuggestedBindingRedirects.cache
+E:\-\уп 03\-\+\пр2\PR2\obj\Debug\PR2.csproj.CoreCompileInputs.cache
+E:\-\уп 03\-\+\пр2\PR2\obj\Debug\PR2.exe
+E:\-\уп 03\-\+\пр2\PR2\obj\Debug\PR2.pdb
